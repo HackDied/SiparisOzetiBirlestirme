@@ -19,18 +19,6 @@ Birden fazla siparis ozeti Excel dosyasini tek bir Excel'de birlestiren, alis fi
 
 `dist/SiparisOzetiBirlestirme.exe` dosyasini indirip dogrudan calistirabilirsiniz. Python kurulumu gerektirmez.
 
-### Python ile Calistirma
-
-```bash
-pip install customtkinter pandas openpyxl
-python order_summary_merger.py
-```
-
-Opsiyonel (surukle-birak destegi):
-```bash
-pip install tkinterdnd2
-```
-
 ## Kullanim
 
 1. **Dosya Sec** - Siparis ozeti Excel dosyalarini ekleyin
