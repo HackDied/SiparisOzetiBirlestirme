@@ -21,18 +21,6 @@ Birden fazla siparis ozeti Excel dosyasini tek bir Excel'de birlestiren, alis fi
 
 > **Not:** `_internal` klasoru exe ile ayni dizinde olmalidir. Klasorun tamamini tasiyiniz.
 
-### Python ile Calistirma
-
-```bash
-pip install customtkinter pandas openpyxl
-python order_summary_merger.py
-```
-
-Opsiyonel (surukle-birak destegi):
-```bash
-pip install tkinterdnd2
-```
-
 ## Kullanim
 
 1. **Dosya Sec** - Siparis ozeti Excel dosyalarini ekleyin (surukle-birak veya tikla)
