@@ -1,0 +1,5 @@
+build/
+__pycache__/
+*.spec
+.order_merger_settings.json
+*.pyc
